@@ -224,4 +224,4 @@ The core of the theme is the [Userchrome toggle Extended](https://addons.mozilla
 Each of three panels has two states - visible and hidden. This state can be toggled independently for each panel.
 
 
-## Thanks again, Naezr, for the original work!
+## Thanks again, [Naezr](https://github.com/Naezr), for the original work!
