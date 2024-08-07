@@ -268,7 +268,7 @@ Tab bar has been transformed into vertical toolbar on the right side of the wind
       width: calc(var(--toolbar-button-wdt) + 4px) !important;
       padding-right: 0px !important;
       
-      background-color: var(--tb-col) !important;
+      background-color: #555 !important;
       
       border: var(--outline) !important;
       outline: var(--shadow) !important;
