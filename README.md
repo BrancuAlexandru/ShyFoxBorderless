@@ -4,8 +4,6 @@
  
 ![image](https://github.com/user-attachments/assets/4fdf77c2-b2b2-4f72-a0a6-cc0c5fb57fa9)
 
-🎦 [Video showcase](showcase.md) ; 💲 [Support project!](https://boosty.to/n2ezr) ; 🔊 [Telegram community](https://t.me/shyfoxchat)
-
 ## Usage
 
 ### Install
