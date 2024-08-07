@@ -1,4 +1,4 @@
-# ShyFox 3.8 - Borderless
+# [ShyFox 3.8](https://github.com/Naezr/ShyFox) - Borderless
 
 
 # Massive thank you to [Naezr](https://github.com/Naezr) for the original work!
