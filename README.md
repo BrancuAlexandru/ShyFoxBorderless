@@ -1,5 +1,8 @@
 # ShyFox 3.8 - Borderless
 
+
+# Massive thank you to Naezr for the original work!
+
 <div>
  
 ![image](https://github.com/user-attachments/assets/4fdf77c2-b2b2-4f72-a0a6-cc0c5fb57fa9)
@@ -218,50 +221,7 @@ The core of the theme is the [Userchrome toggle Extended](https://addons.mozilla
 | 3 | Hide Navbar  | Ctrl + Alt + S |
 | 4 | Clean Mode   | Ctrl + Alt + X |
 
-Each of three panels has two states - visible and hidden. This state can be toggled independently for each panel.             
+Each of three panels has two states - visible and hidden. This state can be toggled independently for each panel.
 
-| Panel state | Image |
-| :--- | --- |
-| Visible | ![image](https://github.com/user-attachments/assets/1925a5a8-a5fc-4403-ade1-2e1949c576c5) |
-| Hidden | ![image](https://github.com/user-attachments/assets/30c6dcab-0a4b-4a04-a29d-7cc7ad150a39) |
-| Hidden (on hover) | ![image](https://github.com/user-attachments/assets/ce587abc-dea1-41d6-81bb-c8e4f5f489fe) |
 
-The visible state is normal state, panel is just there on the screen. In hidden state panel moves out of the window border and a bar appears on the border, when hovering over it panel moves out. Note that panels in a hidden state can show useful information. The top bar will show the page load progress (not very accurate), and the right bar will show the file download progress (very accurate).
-
-There is also a fourth toggle - Clean Mode. When Clean Mode is activated, the previous toggles are ignored and entire browser interface is hidden without any possibility to interact with it. Simply put, Clean Mode removes everything unnecessary, leaving you alone with the currently open website. Note that you can only exit it with a keyboard shortcut.                   
-
-| Normal mode | Clean mode |
-| --- | --- |
-| ![image](https://github.com/user-attachments/assets/d32db474-d0d7-4884-9296-641d07df220f) | ![image](https://github.com/user-attachments/assets/bfcd916a-a7d3-4deb-8639-89bff00a0ada) |
-| Sidebar and navbar hidden, toolbar visible. Hidden panels accesible on hover. | All panels hidden independent on previous three toggles. All panels are inaccessible. |
-
-### Non-Sidebery mode
-
-All tab management in ShyFox has been moved to Sidebery. And the sidebar in normal situations is completely given over to this wonderful extension. 
-
-If the sidebar is closed, you'll see a notification with a red border saying "Open sidebar!". You should also see a red colored sidebar button somewhere. 
-
-If sidebar is open but no Sidebery is there, the sidebar will take a slightly different shape, separating it's content from the main interface. This is where you can work with the built-in sidebars and extensions that open in the sidebar. In the sidebar header, you'll see a notification telling you that you should open Sidebery to work with tabs. If Sidebery is unavailable for some reason and you need to access tab management without it, you can find the "Enable native tabs" option in the sidebar header menu. Clicking on this item will enable the tab strip floating above the page content. In the same way you can turn it off. Native tabs are needed for emergencies, don't use this all the time.
-
-| Default sidebar appearance | Sidebar closed | Not Sidebery oppened |
-| --- | --- | --- |
-| ![image](https://github.com/user-attachments/assets/4533178b-2e12-413f-8193-896597091a7e) | ![image](https://github.com/user-attachments/assets/b7d469cf-20c7-455b-9059-c0f8664b350e) | ![image](https://github.com/user-attachments/assets/ea8cf373-2a97-4187-8a30-bbd4e69d715b) |
-
-| Native tabs toggle | Red sidebar button | Tooltip when dragging in edit menu |
-| --- | --- | --- |
-| ![image](https://github.com/user-attachments/assets/0822da79-a2d3-4ab9-9a0b-971419d8666d) | ![image](https://github.com/user-attachments/assets/1ccc0d62-6850-44da-b98c-d4eea1e0a6dd) | ![image](https://github.com/user-attachments/assets/fa5b761b-a188-4f6b-982d-8d63b257bba6) |
-
-## Additional information     
-
- * The theme works and is only tested on the latest version of Firefox. Firefox-based browsers, ESR versions, or just older versions are not supported. It may work, but I am not responsible for it.
- * Support for macOS is limited. Theme works, but I personally can't test it there, because I don't have a mac. 
-
-## Thanks
-
-* [MrOtherGuy](https://github.com/MrOtherGuy) -  Thanks for the fx-autoconfig (not used here anymore) and the repository with cool css's.                  
-* [MightyFox concept](https://www.reddit.com/r/FirefoxCSS/comments/195n51c/mightyfox_an_idea_need_help_to_build_it_up/)  -  Thanks for the cool concept and main idea.                     
-* [arcticfox-theme](https://github.com/sirlan-ff00ff/arcticfox-theme)  -   I used this theme as a base to create my own, but there was a bit of commonality left in the process.                 
-* [Lepton](github.com/black7375/Firefox-UI-Fix) - I gained a lot of knowledge by investigating this project. I also took the icons from there                      
-* [minearchive](https://t.me/kartoshka_vpered) - That's where I got this wallpaper
-
-Ты думал здесь что-то будет?
+## Thanks again, Naezr, for the original work!
