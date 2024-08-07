@@ -135,16 +135,7 @@
 
 </details>
 
-### Shy on surface, but heavy inside
-
-<div align="center">
-
- <img width="50%" src='https://github.com/user-attachments/assets/4bc61095-887c-46c0-bc92-f5b296c9b90f'><img width="50%" src='https://github.com/user-attachments/assets/f7dddada-9378-4745-b276-f7d7b919f491'>
-</div>
-<div align="center">
- <img width="33%" src='https://github.com/user-attachments/assets/5fe8d381-7f28-48f0-b313-dd5640d9d0b9'><img width="33%" src='https://github.com/user-attachments/assets/a0f849f3-9b68-4639-bb4d-ab8c7bb2ef7e'><img width="33%" src='https://github.com/user-attachments/assets/a8a920a8-6fc4-479b-812e-ec8cbfb89518'>
-
-</div>
+![image](https://github.com/user-attachments/assets/4fdf77c2-b2b2-4f72-a0a6-cc0c5fb57fa9)
 
 🎦 [Video showcase](showcase.md) ; 💲 [Support project!](https://boosty.to/n2ezr) ; 🔊 [Telegram community](https://t.me/shyfoxchat)
 
