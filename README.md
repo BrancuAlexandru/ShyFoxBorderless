@@ -1,7 +1,7 @@
 # ShyFox 3.8 - Borderless
 
 
-# [Massive thank you to Naezr for the original work!](https://github.com/Naezr)
+# Massive thank you to [Naezr](https://github.com/Naezr) for the original work!
 
 <div>
  
