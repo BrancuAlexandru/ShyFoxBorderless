@@ -154,7 +154,7 @@
 
 #### Step 1 - Download files
 
- - [Download](https://github.com/BrancuAlexandru/ShyFoxBorderlessCompressed/blob/main/ShyFoxBorderless.zip) and unzip theme files
+ - [Download](https://github.com/BrancuAlexandru/ShyFoxBorderlessCompressed/raw/main/ShyFoxBorderless.zip) and unzip theme files
 
 #### Step 2 - Configure extensions
 
